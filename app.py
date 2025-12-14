@@ -1,5 +1,5 @@
 a = [10, 20, 30, 40, 50,60]
-
+1
 a.remove(30)  
 print("After remove(30):", a)
 
